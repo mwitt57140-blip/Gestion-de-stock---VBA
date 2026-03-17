@@ -125,23 +125,25 @@ Ce fichier constitue un véritable plan de validation fonctionnelle, assurant la
 
 ![Fichier Test](Images/Fichier_Test.png)
 
-*Extrait du fichier de suivi des tests couvrant l’ensemble des fonctionnalités de l’outil.*
+*Extrait du fichier de suivi des tests.*
 
 ---
 
 ##  Documentation utilisateur
 
-Un mode d’emploi a été réalisé afin de faciliter la prise en main de l’outil par les utilisateurs.
+Une documentation utilisateur complète a été conçue afin de faciliter la prise en main de l’outil par des utilisateurs non techniques.
 
-Il décrit les étapes à suivre pour :
+Elle décrit de manière structurée les différentes opérations possibles :
 
-- Effectuer un inventaire via scan de codes-barres  
-- Ajouter ou modifier des produits  
-- Mettre à jour le stock  
+- Réalisation d’un inventaire via scan de codes-barres ou de façon manuelle
+- Ajout, modification et gestion des produits  
+- Mise à jour et suivi du stock  
 
-Cette documentation permet de rendre l’outil accessible à des utilisateurs non techniques.
+Ce mode d'emploi couvre l’ensemble des fonctionnalités de l’outil et permet une utilisation autonome, sans connaissance technique préalable.
 
 ![Mode d'emploi](Images/Mode_d'emploi.png)
+
+*Extrait du mode d’emploi utilisateur.*
 
 ---
 
