@@ -105,6 +105,38 @@ Les données sont automatiquement regroupées, traitées puis intégrées au sto
 Chaque mouvement de stock (entrée ou sortie) est enregistré avec sa date et sa destination.  
 Cela permet d’assurer une traçabilité complète et de générer des documents de suivi (ex : factures ou consommation).
 
+---
+
+##  Tests et validation
+
+Afin de garantir la fiabilité du système, un fichier de suivi des tests a été mis en place.
+
+Celui-ci permet de vérifier les principales fonctionnalités de l’outil :
+
+- Vérification de la cohérence des données (prix, quantités)
+- Validation du regroupement des produits
+- Contrôle de l’affichage des informations
+- Vérification des mises à jour du stock
+
+Cette approche permet d’assurer la robustesse du système dans un contexte d’utilisation réel.
+
+![Fichier Test](Images/Fichier_Test.png)
+
+---
+
+##  Documentation utilisateur
+
+Un mode d’emploi a été réalisé afin de faciliter la prise en main de l’outil par les utilisateurs.
+
+Il décrit les étapes à suivre pour :
+
+- Effectuer un inventaire via scan de codes-barres  
+- Ajouter ou modifier des produits  
+- Mettre à jour le stock  
+
+Cette documentation permet de rendre l’outil accessible à des utilisateurs non techniques.
+
+![Mode d'emploi](Images/Mode_emploi.png)
 
 ---
 
