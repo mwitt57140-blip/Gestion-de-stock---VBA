@@ -49,7 +49,7 @@ Ce projet s’appuie sur une logique de structuration des données et d’automa
 
 ##  Aperçu
 
-*(Ajouter ici des captures d’écran du projet)*
+![Interface](Images/Feuille_Stock.png)
 
 Exemples :
 - Interface principale
