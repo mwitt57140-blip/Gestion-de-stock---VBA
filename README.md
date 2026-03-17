@@ -68,7 +68,7 @@ Ces contraintes ont orienté le projet vers une solution robuste, autonome et ad
 ##  Aperçu du fonctionnement
 
 ###  Vue globale du stock
-![Stock](images/Feuille_Stock.png)
+![Interface](images/Feuille_Stock.png)
 
 Cette interface permet d’avoir une vision globale des produits disponibles, avec pour chaque article : son nom, sa quantité, son prix et sa localisation.  
 Elle constitue le cœur du système, où toutes les données sont centralisées et mises à jour automatiquement.
@@ -76,7 +76,7 @@ Elle constitue le cœur du système, où toutes les données sont centralisées 
 ---
 
 ###  Ajout de produit via formulaire
-![Formulaire](images/Formulaire_Entrée_Manuelle.png)
+![Interface](images/Formulaire_Entrée_Manuelle.png)
 
 Lorsqu’un produit n’est pas reconnu dans le catalogue, un formulaire interactif permet de l’ajouter rapidement.  
 Ce formulaire intègre des contrôles de validation (format des données, unicité, cohérence), garantissant la fiabilité des informations enregistrées.
@@ -84,7 +84,7 @@ Ce formulaire intègre des contrôles de validation (format des données, unicit
 ---
 
 ###  Mise à jour du stock (entrée / sortie)
-![Entree](images/Feuille_Entrée.png)
+![Interface](images/Feuille_Entrée.png)
 
 Les produits sont ajoutés ou retirés du stock via un système de scan de codes-barres.  
 Les données sont automatiquement regroupées, traitées puis intégrées au stock, avec mise à jour des quantités et enregistrement dans l’historique.
@@ -92,7 +92,7 @@ Les données sont automatiquement regroupées, traitées puis intégrées au sto
 ---
 
 ###  Suivi et traçabilité (historique)
-![Historique](images/Feuille_Historique.png)
+![Interface](images/Feuille_Historique.png)
 
 Chaque mouvement de stock (entrée ou sortie) est enregistré avec sa date et sa destination.  
 Cela permet d’assurer une traçabilité complète et de générer des documents de suivi (ex : factures ou consommation).
