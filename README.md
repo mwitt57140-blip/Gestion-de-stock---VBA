@@ -12,7 +12,7 @@ Le projet a été conçu en prenant en compte des contraintes techniques fortes 
 
 ---
 
-## 💡 Contraintes et choix techniques
+##  Contraintes et choix techniques
 
 - Environnement sans accès internet
 - Interdiction des technologies sans fil
