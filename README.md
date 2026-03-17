@@ -61,7 +61,7 @@ Ce projet s’appuie sur une logique de structuration des données et d’automa
 ![Interface](Images/Feuille_Entrée.png)
 
 ### Formulaire : Entrée manuelle de produit dans le stock
-![Interface](Images/Formulaire_Facture.png)
+![Interface](Images/Formulaire_Entrée_Manuelle.png)
 
 ### Feuille "Historique"
 ![Interface](Images/Feuille_Historique.png)
