@@ -36,7 +36,8 @@ Ce projet s’appuie sur une logique de structuration des données et d’automa
 3. Si produit inconnu → ouverture du formulaire d’ajout  
 4. Mise à jour automatique du stock  
 5. Regroupement et mise à jour des quantités
-6. Génération de facture (.pdf et/ou .xlsx)  
+6. Historisation de chaque action
+7. Génération de facture (.pdf et/ou .xlsx)  
 
 ---
 
