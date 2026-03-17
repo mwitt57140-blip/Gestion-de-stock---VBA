@@ -136,7 +136,7 @@ Il décrit les étapes à suivre pour :
 
 Cette documentation permet de rendre l’outil accessible à des utilisateurs non techniques.
 
-![Mode d'emploi](Images/Mode_emploi.png)
+![Mode d'emploi](Images/Mode_d'emploi.png)
 
 ---
 
