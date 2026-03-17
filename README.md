@@ -45,15 +45,23 @@ Ces contraintes ont orienté le projet vers une solution robuste, autonome et ad
 
 ---
 
-##  Workflow
+##  Workflow global
 
-1. Saisie ou scan du code produit  
-2. Vérification dans le catalogue  
-3. Si produit inconnu → ouverture du formulaire d’ajout  
-4. Mise à jour automatique du stock  
-5. Regroupement et mise à jour des quantités
-6. Historisation de chaque action
-7. Génération de facture (.pdf et/ou .xlsx)  
+![Logigramme](images/Logigramme.png)
+
+Ce schéma représente le fonctionnement global du système de gestion de stock.
+
+Le processus s’articule autour de plusieurs étapes clés :
+
+- Scan ou saisie d’un produit (entrée / sortie)  
+- Vérification dans le catalogue  
+- Ajout automatique si produit inconnu  
+- Mise à jour du stock en temps réel  
+- Enregistrement dans l’historique  
+- Gestion spécifique des sorties (choix du destinataire)  
+- Détection des niveaux de stock faibles  
+
+Ce fonctionnement permet d’assurer une gestion fiable, automatisée et traçable des flux de produits.
 
 ---
 
