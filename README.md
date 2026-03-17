@@ -47,7 +47,7 @@ Ces contraintes ont orienté le projet vers une solution robuste, autonome et ad
 
 ##  Workflow global
 
-![Logigramme](images/Logigramme.png)
+![Présentation générale](images/Présentation_générale.png)
 
 Ce schéma représente le fonctionnement global du système de gestion de stock.
 
