@@ -123,7 +123,9 @@ Les vérifications incluent notamment :
 
 Ce fichier constitue un véritable plan de validation fonctionnelle, assurant la robustesse et la fiabilité du système dans un contexte d’utilisation réel.
 
+*Extrait du fichier de suivi des tests couvrant l’ensemble des fonctionnalités de l’outil.*
 ![Fichier Test](Images/Fichier_Test.png)
+
 
 ---
 
